@@ -1,0 +1,12 @@
+{
+    "default": {
+        "jobs": [
+            {
+                "name": "commGeniusSalesSignals",
+                "existing_cluster_id": "0504-071012-burns729",
+                "libraries": [],
+                "max_retries": 0
+            }
+        ]
+    }
+}
